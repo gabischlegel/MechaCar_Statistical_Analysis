@@ -15,7 +15,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 <img width="468" alt="Module 15 2" src="https://user-images.githubusercontent.com/110864175/203412308-be74c087-787b-4c40-960a-0a865ef3d721.png">
 
 In this analysis, we used R to creative a linear model that predicts the mpg of MechaCar using multiple variables from MechaCar_mpg such as vehicle length, vehicle length, spoiler angle, ground clearance, and AWD. 
-The vehicle length and ground clearance variables provided a nonrandom amount of variance to the mpg values in the dataset
+The vehicle length and ground clearance variables provided a nonrandom amount of variance to the mpg values in the dataset.
 The slope of the linear model is not 0 as the p value is smaller than the significance level of .05 and some of the variables were statistically significant. 
  
 ## Summary Statistics on Suspension Coils
