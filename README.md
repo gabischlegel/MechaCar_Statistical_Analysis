@@ -32,16 +32,16 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Test on Suspension Coils
 <img width="468" alt="Module 15 5" src="https://user-images.githubusercontent.com/110864175/203412709-2894fb8e-09cf-4b40-b4f1-a0ef00e13341.png">
 
-All manufacturing lots in total - Assuming our significance is 0.05 percent, our p value of 0.06028 is higher than .05, which means the PSI is not statistically different from the population mean of 1,500 pounds per square inch. 
+* All manufacturing lots in total - Assuming our significance is 0.05 percent, our p value of 0.06028 is higher than .05, which means the PSI is not statistically different from the population mean of 1,500 pounds per square inch. 
 
 <img width="468" alt="Module 15 6" src="https://user-images.githubusercontent.com/110864175/203412855-e199556a-be0a-4e42-afac-dda5c6a343d5.png">
 
-Lot 1 – Assuming our significance is 0.05 percent, our p value of 1 is higher than .05. This means the PSI is not statistically significant different from the population mean of 1,500 pounds per square inch. 
+* Lot 1 – Assuming our significance is 0.05 percent, our p value of 1 is higher than .05. This means the PSI is not statistically significant different from the population mean of 1,500 pounds per square inch. 
 
 <img width="468" alt="Module 15 7" src="https://user-images.githubusercontent.com/110864175/203412927-e77f910f-26a1-41f9-b54e-44b1e2d8a4f9.png">
 
-Lot 2 – Assuming our significance is 0.05 percent, our p value of .6072 is higher than .05. This means the PSI is not statistically significant different from the population mean of 1,500 pounds per square inch. 
+* Lot 2 – Assuming our significance is 0.05 percent, our p value of .6072 is higher than .05. This means the PSI is not statistically significant different from the population mean of 1,500 pounds per square inch. 
 
 <img width="468" alt="Module 15 8" src="https://user-images.githubusercontent.com/110864175/203412951-f6dd71ad-e6b9-4a5d-8bf7-a440e81e757c.png">
 
-Lot 3 – Assuming our significance is 0.05 percent, our p value of .04168 is lower than .05. This means the PSI is statistically significant different from the population mean of 1,500 pounds per square inch. Therefore, we reject the null hypothesis. 
+* Lot 3 – Assuming our significance is 0.05 percent, our p value of .04168 is lower than .05. This means the PSI is statistically significant different from the population mean of 1,500 pounds per square inch. Therefore, we reject the null hypothesis. 
