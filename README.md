@@ -45,3 +45,17 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img width="468" alt="Module 15 8" src="https://user-images.githubusercontent.com/110864175/203412951-f6dd71ad-e6b9-4a5d-8bf7-a440e81e757c.png">
 
 * Lot 3 – Assuming our significance is 0.05 percent, our p value of .04168 is lower than .05. This means the PSI is statistically significant different from the population mean of 1,500 pounds per square inch. Therefore, we reject the null hypothesis. 
+
+## Study Design: MechaCar vs Competition
+To analyze how MechaCar performs in comparison to competition, we will perform a statistical analysis based on the following metrics: 
+* City/Highway Fuel Economy
+* Acceleration
+* Safety
+Hypothesis
+* Null Hypothesis: MechaCar vehicles perform the same as competitor vehicles based on horsepower, fuel economy, acceleration, cargo capacity, and safety
+* Alternate Hypothesis: MechaCar vehicles perform far better as competitor vehicles. They are far safer, use go more miles per gallon, and accelerate faster.  
+Statistical Test
+* We will run aa ANOVA test to determine if the data types are statistically significant for City/Highway Fuel Economy, Acceleration, and Safety. 
+* We will use this type of test as there are multiple variables, the independent variable is categorical, and the dependent variable is continuous. 
+Data Needed
+* We will need a vast amount of data on different vehicles from different competitors for their city/highway fuel economy (mpg), acceleration speed, and safety. We can access this data via data scraping competitors’ websites. 
