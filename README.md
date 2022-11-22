@@ -1,6 +1,15 @@
 # MechaCar_Statistical_Analysis
 Module 15
 ## Overview
+AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on the data analytics team to review the production data for insights that may help the manufacturing team.
+
+Below we have done the following to help:
+
+Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+
 ## Linear Regression to Predict MPG
 <img width="468" alt="Module 15 1" src="https://user-images.githubusercontent.com/110864175/203412291-6c4cdc4f-e9fa-4ee1-9d27-da12d41f703e.png">
 <img width="468" alt="Module 15 2" src="https://user-images.githubusercontent.com/110864175/203412308-be74c087-787b-4c40-960a-0a865ef3d721.png">
